@@ -1,0 +1,43 @@
+html, body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.delete-form {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.delete-form button {
+  color: rgb(14, 13, 13);
+  width: 5px;
+  height: 15px;
+}
+
+.del {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+li {
+  list-style: none;
+}
+
+.home {
+  background-color: rgb(239, 234, 250);
+}
+
+.skills {
+  background-color: rgb(239, 234, 250);
+}
